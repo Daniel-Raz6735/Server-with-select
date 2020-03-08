@@ -1,7 +1,4 @@
-/*
-Daniel Raz
-308144328
-*/
+/*Daniel Raz*/
 
 #include <stdio.h>
 #include <stdlib.h>
